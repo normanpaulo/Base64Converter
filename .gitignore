@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/API/TextConvertWebApi/TextConverterService
+/API/TextConvertWebApi/.vs
+/API/TextConvertWebApi/TextConverterServiceTest/bin
+/API/TextConvertWebApi/TextConverterServiceTest/obj
+/API/TextConvertWebApi/TextConvertWebApi/bin/Debug/net6.0
+/API/TextConvertWebApi/TextConvertWebApi/obj/Debug/net6.0
+/API/TextConvertWebApi/TextConvertWebApi/obj
